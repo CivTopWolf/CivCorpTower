@@ -24,7 +24,6 @@ Tenant Contact          $TENANT_CONTACT
 Yearly Rent             $YEARLY_RENT
 Security Deposit        $SECURITY_DEPOSIT
 Total Due at Signing    $TOTAL_DUE
-Gold Block X-Z          $GOLD_BLOCK_X_Z
 ======================= ========================================================
 
 Premises
@@ -40,15 +39,18 @@ Restrictions of Use
 Tenant may use the Premises for any lawful purpose subject to the following
 restrictions:
 
-1. Tenant may place Gold Blocks only in the specified X-Z coordinates set forth
-   in the Basic Terms.
+1. Tenant may place Gold Blocks only in the specified X-Z coordinates, if any,
+   set forth in the Basic Terms, and in any X-Z coordinates. If another tenant
+   has the right to place Gold Blocks in a given X-Z coordinate, said tenant
+   may share this right with Tenant.
 
-2. Tenant may not place any blocks that are limited by the server (e.g
-   restricted redstone components).
+2. Tenant will not place any blocks that are limited by the server (e.g
+   restricted redstone components) without the prior written consent of CivCorp
+   Tower.
 
-3. Tenant may not place any blocks or spawn any entities in a way that may
-   reasonably injure other players or damage the property of others (e.g. TNT,
-   TNT Minecarts, acid blocks).
+3. Tenant will not place any blocks or spawn any entities in a way that could
+   reasonably injure or damage other tenants or property (e.g. TNT, minecart
+   with TNT, acid blocks).
 
 Agreement Term
 ********************************************************************************
