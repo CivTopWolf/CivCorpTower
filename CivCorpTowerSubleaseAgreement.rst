@@ -24,6 +24,7 @@ Tenant Contact          $TENANT_CONTACT
 Yearly Rent             $YEARLY_RENT
 Security Deposit        $SECURITY_DEPOSIT
 Total Due at Signing    $TOTAL_DUE
+Gold Block X-Z          $GOLD_BLOCK_X_Z
 ======================= ========================================================
 
 Premises
