@@ -15,6 +15,7 @@ Basic Terms
 
 ======================= ========================================================
 ======================= ========================================================
+Property Address        Plot D5, CivCorp City
 Unit Number             $UNIT_NUMBER
 Term                    12 Months
 Commencement Date       $COMMENCEMENT_DATE
