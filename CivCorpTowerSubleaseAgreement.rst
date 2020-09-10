@@ -72,7 +72,7 @@ Security Deposit
   occupants.
 
 - Deductions as permitted by this Agreement may be made from the security
-  deposit, and the reminder, if any, shall be returned to Tenant within seven
+  deposit, and the remainder, if any, shall be returned to Tenant within seven
   (7) days of the termination of this Agreement.
 
 - Any reason for retaining a portion of the deposit shall be explained in
