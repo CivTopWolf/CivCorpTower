@@ -76,8 +76,8 @@ Security Deposit
 Surrender of the Premises
 ********************************************************************************
 
-- Upon the termination of this Agreement for any reason, Tenant will leave the
-  Premises.
+- Upon the termination of this Agreement for any reason, Tenant will return the
+  Premises to its original condition.
 
 - If Tenant leaves any personal property in the Premises after termination of
   this Agreement due to Tenant Default, CivCorp Tower shall store such personal
