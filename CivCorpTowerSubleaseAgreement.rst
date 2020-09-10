@@ -111,10 +111,10 @@ Master Lease
   Agreement will terminate as of the same date.
 
 - If the Master Lease is terminated for any reason (e.g. the plot is sold),
-  CivCorp Tower shall pay Tenant a pro-rated refund for use of the Premises
-  plus an additional amount equal to the Security Deposit set forth in the
-  Basic Terms which the parties agree is a reasonable estimate of the damages
-  Tenant will suffer as a result of said termination.
+  CivCorp Tower shall pay Tenant a pro-rated refund for the remaining Term of
+  the Premises plus an additional amount equal to the Security Deposit set
+  forth in the Basic Terms which the parties agree is a reasonable estimate of
+  the damages Tenant will suffer as a result of said termination.
 
 Tenant Default
 ********************************************************************************
